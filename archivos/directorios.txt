@@ -1,0 +1,141 @@
+departamento	nombre	area	extension
+Análisis de Garantía	Luis Santos	Análisis de Garantías	2362
+Area de Almacenes	Joel Hernández Torres	Almacén de Partes	2374
+Area de Almacenes	Tool Crib	Tool Crib	2397
+Area de Visitas	Visitor ROEL	Visitor ROEL	2301
+Area de Visitas	Visitors ROEL	Visitors ROEL	2437
+Area de Visitas	Jose Soldevilla	Oracle	2946
+Costos	Abraham Flores	Costos	2381
+Costos	Griselda Rivera	Costos	2405
+Costos	Karina Salvador	Costos	2432
+Calidad	Alejandro Ortíz	Calidad de Proveedores	2403
+Calidad	Area Cuarentena	Calidad	2357
+Calidad	Calibración	Calibración	2350
+Calidad	Incoming Area	Area de Incoming	2384
+Calidad	Martín Plascencia	Director de Calidad	2359
+Calidad	Alejandro Rodríguez	Gerente de Calidad	2307
+Calidad	Jose Cayetano	Supervisor de Calidad	2445
+Calidad	Erika Fernandez	Coordinadora SGC	2460
+Calidad	Control Documentos	Calidad	2321
+Compras	Abel Reyes	Compras	2363
+Compras	Berenice Hill Martínez	Gerente de Compras	2413
+Compras	Jesus Venegas	Compras	2313
+Compras	Conf. Compras	Compras	2388
+Compras	Eduardo Barbosa	Compras	2341
+Compras	Gregorio Hernández	Compras	2391
+Compras	Héctor Mata	Compras	2370
+Compras	Jesús Isaias	Compras	2406
+Compras	Lorenzo Bautista	Compras	2369
+Compras	Luz Luciano	Compras	2358
+Compras	Manyari Araujo	Compras	2402
+Compras	Perla Moreno	Compras	2419
+Compras	Claudia González	Compras	2407
+Compras	Claudia Garza	Compras	2340
+Compras	Disponible Compras	Compras	2360
+Compras	Héctor Hernández	Compras	2326
+Compras	Jorge Guzmán	Compras	2315
+Compras	Lizbet Villarreal	Compras	2372
+Compras	Mauricio Puente	Compras	2341
+Compras	Perla Chapa	Compras	2448
+Control de Inventario	Hoswaldo Morales	Inventarios	2389
+Control de Inventario	Juan Diego Bernabe	Inventarios	2387
+Core	Alejandro Ramírez	Gerente de Core	2319
+Core	Area Core	Area de Core	2380
+Core	José Mora	Core	2443
+Core	Felipe Marcos	Core	2345
+Custumer Service	Karine Garrido	Rep. Custumer Service	2444
+Consultorio Médico	Consultorio Médico	Enfermería	2309
+Caseta de Guardias	Guardias ROEL Plt 01	Caseta de Guardias	2327
+Caseta de Guardias	Guardias ROEL Plt 05	Caseta de Guardias	2409
+Caseta de Guardias	Monitoreo BBB	Monitoreo BBB	2450
+Embarques	Area Embarques Pl5	Embarques Planta 05	2401
+Embarques	Embarques PL5	Embarques Planta 05	2347
+Embarques	Felix Hernández	Embarques Planta 05	2303
+Embarques	Warehouse PL5	Warehouse PL5	2346
+Embarques	Andrea Navarro	Planta 05	2428
+Finanzas	Claudia García	Gerente de Finanzas	2318
+Finanzas	Lucia Silva R	Finanzas	2390
+Finanzas	Claudia Gómez	Finanzas	2331
+Finanzas	Abel Valencia	Finanzas	2439
+Finanzas	Elizabeth Sauceda	Finanzas	2367
+Finanzas	Dept. Finanzas	Finanzas	2438
+Finanzas	Héctor Zavala	Contralor	2335
+Finanzas	Mariel García	Finanzas	2418
+Finanzas	San. Juana Mtz	Finanzas	2329
+Sistemas de la Información	Cleofas Morales	Gte. De Sistemas de la Información	2421
+Sistemas de la Información	Bis ROEL	Sistemas de la Información	2442
+Ingeniería	Armando Castellanos	Gerente de Ingeniería	2398
+Ingeniería	Alcides Guerrero 	Supervisor de Ingeniería	2458
+Ingeniería	Ingeniería de Procesos	Ingeniería de Procesos	2355
+Import / Export	Aron Morales	Import / Export	2404
+Import / Export	Nubia Garcia	Import / Export 	2317
+Import / Export	Hilda González	Import / Export	2417
+Import / Export	Jesse Valdez	Import / Export	2394
+Import / Export	Maribel Villanueva	Import / Export	2302
+Import / Export	Byanka Valdez	Import / Export	2339
+Import / Export	Edgar Villarreal	Import / Export	2378
+Import / Export	David Hernandez	Import / Export	2349
+Import / Export	Gadael Vázquez	Import / Export	2324
+Import / Export	Carlos Esponoza	Import / Export	2396
+Import / Export	Laura Aguilar	Import / Export	2377
+Import / Export	Francisco Marín	Import / Export	2371
+Import / Export	Eduardo Cordero	Import / Export	2457
+Laboratorio	Candido López	Boms	2336
+Laboratorio	Dago Mata	Supervisor de Boms	2344
+Laboratorio	Depto. BOMS	Departamento de Boms	2440
+Laboratorio	Elías Muñoz	Boms	2361
+Laboratorio	Martín Pozas	Departamento de Laboratorío	2368
+Laboratorio	Técnicos Laboratorío	Laboratorío	2308
+Logística	Cordinador Bega	Logística	2424
+Logística	Ramón Cervantes	Logística	2435
+Lean Six Sigma	Gabriel Rosales	Lean Manufacturing	2459
+Lean Six Sigma	Juan Castillo	Gte. de Six Sigma	2320
+Lean Six Sigma	Juán Castañón	Lean Six Sigma	2434
+Mantenimiento	Gustavo Prado	Gerente de Mantenimiento	2305
+Mantenimiento	Departamento de Mantenimiento	Departamento de Mantenimiento	2392
+Planeación	Arely Avizcaino	Supervisor de Planeación	2441
+Planeación	Claudia Segura	Gerente de Planeación	2758
+Planeación	Diana Peña	Planeación	2422
+Planeación	Francisco Xochihua	Planeación	2431
+Planeación	Joel Macay	Planeación	2366
+Planeación	Miguel Hernández	Planeación	2306
+Planeación	Natalia Castillo	Planeación	2427
+Planeación	Alejandra Reyes	Planeación	2453
+Producción	Alejandro Alvarez	Gerente de Producción	2383
+Producción	Anna Ordaz	Producción	2393
+Producción	Antonio Garza	Producción	2379
+Producción	Area Cromado	Producción	2436
+Producción	Celda 05	Producción	2354
+Producción	Celda 24	Producción	2356
+Producción	Celda 42	Producción	2386
+Producción	Alejandro Perez	Producción	2415
+Producción	RTS	Producción	2395
+Producción	Celda 59	Producción	2323
+Recibos	Beatriz Hernández	Esp. De Discrepancias	2433
+Recibos	Isaias Bautista	Recibos Planta 05	2373
+Recibos	Recibos Plt 01	Recibos Planta 01	2348
+Recursos Humanos	Doris Vite	Recursos Humanos	2328
+Recursos Humanos	Lourdes Venegas	Gerente de Recursos Humanos	2332
+Recursos Humanos	Luz Perales	Sup. De Recursos Humanos	2414
+Recursos Humanos	Mario Celestino	Recursos Humanos	2352
+Recursos Humanos	México Recepción	Recepción	2300
+Recursos Humanos	México Reception-2	Recepción	2338
+Recursos Humanos	Practicante RH	Recursos Humanos	2426
+Recursos Humanos	Office RH	Recursos Humanos	2449
+Recursos Humanos	Noel Celis	Sup. Entrenamiento	2416
+Sicafi	Departamento de Sicafi	Departamento de Sicafi	2385
+Salas de Conferencias	Conf Reynosa E	Sala de Conferencias	2314
+Salas de Conferencias	Conf. Reynosa A	Sala de Conferencias	2310
+Salas de Conferencias	Conf. Reynosa C	Sala de Conferencias	2312
+Salas de Conferencias	Conf. Reynosa D	Sala de Conferencias	2410
+Salas de Conferencias	Room Conf F	Sala de Conferencias	2430
+Seguridad	Rafael Lee Rivera	Gte. De Seguridad y Medio Ambiente	2382
+Seguridad	Departamento de EHS	Departamento de EHS	2420
+TI (Sistemas)	Giovani Rodríguez	Sup. De Sistemas IT	2408
+TI (Sistemas)	Cesar Hinojosa	Sup. De Sistemas IT	2451
+TI (Sistemas)	IT Omar Baez	Sistemas	2343
+TI (Sistemas)	IJuan Rene Mtz	Sistemas	2311
+TI (Sistemas)	IT ROEL	Sistemas	2342
+TI (Sistemas)	Jose Luis Solórzano	Gte. De Sistemas de IT	2376
+Operaciones	Ricardo Lemus	Gerente de Operaciones	2337
+Vicepresidente de Operaciones	Guillermo Avellaneda	Vicepresidente de Operaciones	2411

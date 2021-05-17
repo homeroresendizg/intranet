@@ -1,0 +1,12 @@
+
+use intranet;
+
+CREATE TABLE directorios (
+  id INT(11) UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+  planta VARCHAR(30),
+  nombre VARCHAR(50),
+  departamento VARCHAR(30),
+  area VARCHAR(30),
+  created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+  updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);

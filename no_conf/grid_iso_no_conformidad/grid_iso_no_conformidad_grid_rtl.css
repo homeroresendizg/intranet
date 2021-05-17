@@ -1,0 +1,30 @@
+.css_iniciador_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_iniciador_grid_line {vertical-align: top;text-align: right;}
+.css_sac_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_sac_grid_line {vertical-align: top;text-align: right;}
+.css_nombre_proceso_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_nombre_proceso_grid_line {vertical-align: top;text-align: right;}
+.css_fecha_apertura_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_fecha_apertura_grid_line {vertical-align: top;text-align: center;}
+.css_fecha_cierre_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_fecha_cierre_grid_line {vertical-align: top;text-align: center;}
+.css_numero_parte_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_numero_parte_grid_line {vertical-align: top;text-align: right;}
+.css_clausula_iso_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_clausula_iso_grid_line {vertical-align: top;text-align: right;}
+.css_descrip_problema_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_descrip_problema_grid_line {vertical-align: top;text-align: right;}
+.css_contencion_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_contencion_grid_line {vertical-align: top;text-align: right;}
+.css_causa_raiz_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_causa_raiz_grid_line {vertical-align: top;text-align: right;}
+.css_imp_acc_correc_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_imp_acc_correc_grid_line {vertical-align: top;text-align: right;}
+.css_responsable_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_responsable_grid_line {vertical-align: top;text-align: right;}
+.css_fecha_compro_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_fecha_compro_grid_line {vertical-align: top;text-align: center;}
+.css_fehca_real_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_fehca_real_grid_line {vertical-align: top;text-align: center;}
+.css_id_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_id_grid_line {vertical-align: top;text-align: right;}
